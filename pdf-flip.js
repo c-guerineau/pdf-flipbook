@@ -4,7 +4,7 @@
     currentPage: 1,
     currentScale: 1,
     layout: 'double',
-    maxScale: 2,
+    maxScale: 10,
     audioSrc: "sound/page-flip.mp3",
     init: function () {
 
